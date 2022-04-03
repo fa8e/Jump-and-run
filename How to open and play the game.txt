@@ -1,0 +1,18 @@
+To open the project in Unity:
+Step 1: Create a new project in Unity.
+Step 2: Go to 'Assets' in the top toolbar.
+Step 3: Click on 'Import Package' > 'Custom Package'
+Step 4: Choose the 'Jump and run' file, which is of type 'Unity Package File', from the 'Jump and run' folder. In 
+the next dialogue box, click on 'Import'.
+Step 5: In the Unity editor, go to the 'Scenes' folder in the Assets and open the scene in it.
+
+To play the Built game:
+WARNING: Do not rename the file 'Jump and run.exe', otherwise it will not work.
+Step 1: Go to the 'Built Game' folder.
+Step 2: Open the file 'Jump and run', which is of type '.exe'.
+Step 3: To close the game press 'Alt + F4' on Windows OS (x86).
+
+How to play the game:
+Step 1: Press left or right keys to move the player.
+Step 2: Press the Spacebar on the keyboard to jump.
+Step 3: Your goal is to reach the top by jumping on the slabs.
